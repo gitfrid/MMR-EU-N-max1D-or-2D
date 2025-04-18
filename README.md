@@ -1,4 +1,4 @@
-### MMR-py coverage max(1st or 2nd Dose)  
+### MMR-py vax coverage max(1st or 2nd Dose) vs Measles confirmed reported cases  /1M  
 <br>
 <br>
 
@@ -16,7 +16,7 @@ Confirmed reported Case incidence
 **The results have not been checked for errors. Neither methodological nor technical checks or data cleansing have been performed.**
 _________________________________________
 
-### Dowhy causal impact estimation vax coverage on measles case incidence for differnt countries, <br>M-containing vac max(1st or 2nd) Dose
+### Dowhy causal impact estimation vax coverage on measles confirmed reported case incidence /1M for differnt countries, <br>M-containing vac max(1st or 2nd) Dose
 
 <br>
 <p>DoWhy is a Python library for causal inference that allows modeling and testing of causal assumptions, based on a unified language for causal inference.
@@ -63,7 +63,7 @@ To select or deselect all countries, double-click on the legend. To select a sin
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt countries including trend line categories , M-containing vac max(1st or 2nd Dose) 1999-2024:
+### Vax coverage vs confirmed reported cases /1M for differnt countries including trend line categories , M-containing vac max(1st or 2nd Dose) 1999-2024:
     Rising Coverage and Rising Cases:
     Falling Coverage and Falling Cases:
     Rising Coverage and Falling Cases:
@@ -96,7 +96,7 @@ _________________________________________
 
 **Rising Coverage and Falling Cases:**
 <br>
-<img src=https://github.com/gitfrid/MMR-max1D-or-2D/blob/main/B%29%20MMR%20rising%20vac%20coverage%20and%20falling%20cases%20trend%201999-2024.png width="1280" height="auto">
+<img src=https://github.com/gitfrid/MMR-EU-N-max1D-or-2D/blob/main/B%29%20MMR%20rising%20vac%20coverage%20and%20falling%20cases%20trend%201999-2024.png width="1280" height="auto">
 <br>
 
 [Download interactive html](https://github.com/gitfrid/MMR-max1D-or-2D/blob/main/B%29%20MMR%20rising%20vac%20coverage%20and%20falling%20cases%20trend%201999-2024.html) 1999-2024
@@ -114,7 +114,7 @@ _________________________________________
 _________________________________________
 <br>
 
-### Vax coverage vs case incidence rate for differnt countries, <br>MMR-containing vac max(1st or 2nd Dose) for years 1999-2024:
+### Vax coverage vs confirmed reported cases /1M for differnt EU countries, <br>MMR-containing vac max(1st or 2nd Dose) for years 1999-2024:
 
 .
 <br>
